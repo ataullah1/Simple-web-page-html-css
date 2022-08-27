@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.containar {
+    width: 95%;
+    height: 100vh;
+    background-color: darkgray;
+    margin: auto;
+}
+
+.header {
+    height: 500px;
+    width: 100%;
+    /* background-color: aquamarine; */
+}
+
+.top-header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(11, 117, 124);
+}
+
+.logo {
+    height: 100%;
+    width: 10%;
+    /* background-color: antiquewhite; */
+    text-align: center;
+    float: left;
+}
+
+.logo img {
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 11px 0px #232523;
+}
+
+.menu-ber {
+    height: 100%;
+    width: 90%;
+    /* background-color: aqua; */
+    float: right;
+}
+
+.togol-menu div {
+    height: 3px;
+    width: 20px;
+    background-color: black;
+    margin-bottom: 2px;
+}
+
+.togg {
+    display: none;
+}
+
+.menu-item ul {
+    justify-content: space-between;
+    /* background-color: yellow; */
+    display: flex;
+    width: 38%;
+    list-style: none;
+    float: right;
+    margin: 40px 20px;
+    flex-direction: row;
+}
+
+.menu-item ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.menu-item ul li a:hover {
+    background-color: rgb(77, 65, 14);
+    color: white;
+    transition: .5s;
+}
+
+.bottom-header {
+    height: 400px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 7px 12px 0px rgb(48, 45, 51);
+    background-image: url("./Image/at.png");
+    background-size: cover;
+}
+
+.bio {
+    height: 300px;
+    width: 55%;
+    /* background-color: rgb(111, 144, 173); */
+    float: right;
+    margin-top: 50px;
+}
+
+.name {
+    height: 100%;
+    width: 70%;
+    /* background-color: rgb(48, 77, 77); */
+    float: left;
+}
+
+.name h1 {
+    margin-bottom: 7px;
+}
+
+.name h1 a {
+    font-size: 60px;
+    color: white;
+    text-decoration: none;
+}
+
+.name span {
+    background-color: aliceblue;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 5px 13px;
+    color: black;
+}
+
+.icon {
+    margin-top: 30px;
+}
+
+.icon p a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+
+.icon p a i {
+    margin-bottom: 5px;
+    color: rgb(45, 187, 92);
+    font-size: 28px;
+}
+
+.chanel {
+    height: 100%;
+    width: 30%;
+    /* background-color: #fff; */
+    float: right;
+    text-align: center;
+}
+
+.chanel img {
+    height: 35%;
+    border-radius: 50%;
+    margin-top: 80px;
+}
+
+.chanel h3 a {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}

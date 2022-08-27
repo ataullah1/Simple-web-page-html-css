@@ -1,0 +1,21 @@
+<table border="1" align="right" width="765px">
+                    <tr height="65px"></tr>
+                    <tr>
+                        <td width="500px">
+                            <div class="name">
+                                <h1>Md Ataullah</h1>
+                                <h2>Web Designer</h2>
+                            </div>
+                            <div class="icon">
+                                <p><a href="https://api.whatsapp.com/send/?phone=8801719199967&text&app_absent=0"><i class="fa-solid fa-phone"></i> &nbsp;&nbsp; +8801719199967</a></p>
+                                <p><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrkWHsnbcDqfTVXxfDlWkfsTSbVmgXkHzwQGLMBzGhfsdvXzfTcBFLlLxfgQLpNldRVvVB"><i class="fa-solid fa-envelope"></i>&nbsp;&nbsp;2021mdataullah@gmail.com</a></p>
+                                <p><a href="https://dev-ataullah.pantheonsite.io/"><i class="fa-solid fa-globe"></i>&nbsp;&nbsp;https://dev-ataullah.pantheonsite.io</a></p>
+                                <p><a href="live:.cid.fc8b6e12283ab064"><i class="fa-brands fa-skype"></i>&nbsp;&nbsp;Md Ataullah</a></p>
+                                <p><a href="#"><i class="fa-solid fa-location-dot"></i>&nbsp;&nbsp;
+                                Barguna - Bangladesh</a></p>
+                            </div>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr height="60px"></tr>
+                </table>
